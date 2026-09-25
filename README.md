@@ -1,13 +1,14 @@
 # Escape Room RPG
-Python project developed as part of CPSC1050 course at Clemson University that takes user through an 'escape room,' which is completed by entering/exiting different rooms and finding objects in the rooms, simultaneously counting steps it takes for the user to complete the game. Classes, custom errors, and different functions are used throughout this project.
+A Python-based escape room game originally developed as part of CPSC 1050 at Clemson University. Players navigate between rooms, collect items, and attempt to complete the escape while the program tracks the number of steps taken.
+The project uses object-oriented programming, custom exceptions, and modular program design to organize the game's rooms, inventory, items, and navigation logic.
 
 # Features
-- Classes
-- Custom Errors
-- For Loops
-- Try/Except Functions
-- Arrays
-- If/Else Statements
+- Object-oriented design using Python classes
+- Custom exception handling
+- Inventory and item management
+- Room-to-room navigation
+- Player movement tracking
+- Modular design across multiple Python files
 
 # Background
 This project was assigned as part of my CPSC1050 course at Clemson University, but all code is original.
